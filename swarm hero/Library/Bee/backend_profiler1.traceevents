@@ -1,0 +1,545 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1678345021504729, "dur":1137, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345021505873, "dur":73, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1678345021505975, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1678345021505991, "dur":259, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1678345021506278, "dur":635, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345021506913, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087103, "dur":69, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087172, "dur":17, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087189, "dur":89, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087278, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087287, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087290, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087299, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087302, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087309, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087310, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087319, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087320, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087327, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087329, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087336, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087338, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087344, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087350, "dur":39, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022087402, "dur":1832, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1678345021506536, "dur":382, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021506920, "dur":4272, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021511198, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678345021511204, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021511971, "dur":274, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678345021512250, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678345021512287, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021512526, "dur":6573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678345021519102, "dur":12735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1678345021531842, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021531854, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1678345021532942, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1678345021533036, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021533048, "dur":289154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1678345021822241, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021822536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021822545, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021824492, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021824705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021824714, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021826062, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021826192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021826200, "dur":9037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021835271, "dur":26194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021861472, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021861483, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021862656, "dur":1095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021863755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021863764, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021866112, "dur":18149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021884265, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021884277, "dur":1012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021885322, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021885498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021885506, "dur":721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021886256, "dur":28954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021915217, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021915230, "dur":10595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021925858, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021925970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021925979, "dur":4122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021930141, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021930278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021930289, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021932360, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021932798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021932808, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021933848, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021933945, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345021933953, "dur":4538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345021938525, "dur":147442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345022085973, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678345022085985, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678345022087032, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":1, "ts":1678345022087035, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021506763, "dur":172, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021506936, "dur":4300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021511237, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1678345021511344, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021516303, "dur":273870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1678345021790205, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021790335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021790344, "dur":9480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021799866, "dur":22810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021822680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021822688, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021824785, "dur":19407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021844197, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021844209, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021845130, "dur":45231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021890365, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021890375, "dur":9066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021899472, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021899606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021899615, "dur":1446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021901092, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021901444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021901452, "dur":2725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021904204, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021904359, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021904367, "dur":2676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021907078, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021907469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021907479, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021908949, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021909080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021909088, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021911020, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021911123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021911131, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021912214, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021912328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021912339, "dur":12863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021925228, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021925300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021925305, "dur":51175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021976515, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021976730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021976739, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021977767, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021977876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021977884, "dur":607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021978516, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345021978767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345021978774, "dur":63646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678345022044267, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1678345022044301, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678345022045164, "dur":21953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1678345022067148, "dur":20053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021506823, "dur":123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021506946, "dur":4291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021511237, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1678345021511344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021516725, "dur":15678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1678345021532435, "dur":17288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1678345021549728, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021549742, "dur":60473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1678345021610260, "dur":13433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1678345021623699, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021623709, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1678345021625264, "dur":41674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021666944, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021666974, "dur":3056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021670068, "dur":35395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021705490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021705498, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021706420, "dur":20826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021727252, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021727263, "dur":4165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021731461, "dur":18612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021750079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021750090, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021751988, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021752111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021752123, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021753051, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021753305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021753312, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021755462, "dur":18069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021773537, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021773548, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021774380, "dur":17298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021791683, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021791693, "dur":8192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021799914, "dur":23345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021823265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021823271, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021825155, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021825275, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021825286, "dur":1693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021827010, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021827242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021827251, "dur":878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021828154, "dur":20165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021848324, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021848335, "dur":9519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021857890, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021858006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021858015, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021858722, "dur":31754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021890480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345021890488, "dur":8063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345021898577, "dur":180298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345022078881, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678345022078892, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678345022080678, "dur":6522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021506641, "dur":281, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021506923, "dur":4271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021511198, "dur":10748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1678345021521952, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021521970, "dur":749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1678345021522755, "dur":9208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1678345021531966, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021531974, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1678345021533099, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1678345021533178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021533185, "dur":77193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1678345021610406, "dur":573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero.exe" }}
+,{ "pid":12345, "tid":4, "ts":1678345021610983, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021610991, "dur":3090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero.exe" }}
+,{ "pid":12345, "tid":4, "ts":1678345021614117, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021614373, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021614600, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021615554, "dur":17574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021633134, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021633146, "dur":1012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021634186, "dur":40961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021675153, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021675165, "dur":1041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021676238, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021676383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021676394, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021677837, "dur":26936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021704778, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021704791, "dur":4791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021709618, "dur":108226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021817851, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021817862, "dur":6532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021824432, "dur":19196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021843632, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021843643, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021844403, "dur":92932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021937340, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345021937351, "dur":16206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345021953588, "dur":120998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345022074595, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678345022074606, "dur":1905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678345022076543, "dur":10508, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021506669, "dur":257, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021506926, "dur":4296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021511222, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1678345021511329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021512651, "dur":10728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1678345021523407, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1678345021523499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021523509, "dur":265329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1678345021788870, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021789000, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021789009, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021789847, "dur":18903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021808756, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021808768, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021810793, "dur":30808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021841606, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021841618, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021842549, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021842667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021842676, "dur":747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021843451, "dur":21081, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021864537, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021864547, "dur":955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021865534, "dur":18724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021884264, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021884277, "dur":1093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021885404, "dur":52067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345021937499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345021937507, "dur":83026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022020584, "dur":347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022020934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022020943, "dur":3259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022024239, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022024422, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022024435, "dur":2894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022030713, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022030838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022030846, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022031535, "dur":1115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022032655, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022032667, "dur":8736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022041433, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022041590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022041597, "dur":1181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022042808, "dur":279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022043091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022043100, "dur":686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678345022043815, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1678345022043912, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022044214, "dur":760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1678345022045002, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678345022045032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022045038, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678345022046650, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678345022046685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022046692, "dur":1763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678345022048498, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1678345022048670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022048681, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1678345022049617, "dur":12161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1678345022061784, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678345022061797, "dur":862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1678345022062691, "dur":24372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021506753, "dur":178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021506931, "dur":4263, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021511198, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678345021511383, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021516821, "dur":7246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678345021524099, "dur":968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678345021525070, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021525448, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678345021527460, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1678345021527562, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021527607, "dur":10776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1678345021538414, "dur":23533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021561955, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021562067, "dur":54476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021616579, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021616697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021616756, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021617590, "dur":47882, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021665513, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021665527, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021667280, "dur":68861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021736148, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021736161, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021737781, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021737900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021737909, "dur":1491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021739435, "dur":1301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021740742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021740752, "dur":3803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021744587, "dur":1066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021745657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021745672, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021747351, "dur":20518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021767874, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021767885, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021768705, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021768818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021768826, "dur":671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021769525, "dur":43987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021813540, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021813552, "dur":11051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021824633, "dur":65193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021889832, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021889843, "dur":8107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021897978, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021898202, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021898210, "dur":1630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021899865, "dur":23063, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021922935, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021922946, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021924877, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021924959, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021924964, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021926942, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021927126, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021927134, "dur":2972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021930137, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021930741, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021930748, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021933501, "dur":716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021934219, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021934227, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021935781, "dur":52992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345021988779, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345021988792, "dur":31834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022020653, "dur":814, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022021470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345022021478, "dur":4799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022026308, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022026431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345022026438, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022027983, "dur":529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022028515, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345022028525, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022029874, "dur":1982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022031860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345022031928, "dur":9185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022041143, "dur":737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022041884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345022041891, "dur":1788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022043709, "dur":15891, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022059604, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678345022059909, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678345022060793, "dur":26417, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021506814, "dur":128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021506942, "dur":4251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021511198, "dur":37550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1678345021548755, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021549309, "dur":60862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1678345021610204, "dur":58065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021668272, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021668279, "dur":23727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021692044, "dur":19761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021711813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021711825, "dur":835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021712696, "dur":93238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021805940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021805951, "dur":16933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021822910, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021823151, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021823157, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021825882, "dur":20996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021846885, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021846898, "dur":2100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021849024, "dur":29293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021878322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021878333, "dur":827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021879188, "dur":19861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021899052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021899060, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021900421, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021900538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021900550, "dur":2651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021903230, "dur":524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021903758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021903768, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021905519, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021905691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021905699, "dur":2122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021907850, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021907942, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021907948, "dur":1569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021909545, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021909634, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021909643, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021911296, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021911426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021911433, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021912805, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021912908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021912916, "dur":11687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021924637, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021924729, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021924738, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021926168, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021926261, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021926267, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021930348, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021930447, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021930453, "dur":2348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021932836, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021932947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021932955, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021933937, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021934278, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345021934284, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345021935612, "dur":77381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022012999, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022013035, "dur":9373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022022439, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022022545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022022553, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022023642, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022023915, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022023929, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022024794, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022024899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022024908, "dur":1178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022026125, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022026310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022026321, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022028025, "dur":2336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022030365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022030375, "dur":9954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022040360, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022040580, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022040592, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022041816, "dur":4091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022045911, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022045920, "dur":4805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678345022050761, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678345022050793, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022050802, "dur":980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678345022051809, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1678345022051842, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022051849, "dur":875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1678345022052751, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678345022052784, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022052791, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678345022053892, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1678345022053947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022053965, "dur":979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1678345022054973, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678345022055004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022055014, "dur":3650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678345022058696, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1678345022058794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678345022058801, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1678345022059467, "dur":27765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021506872, "dur":78, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021506950, "dur":4272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021511222, "dur":9704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1678345021520933, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021520951, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1678345021522697, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1678345021522991, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021523042, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1678345021525065, "dur":9975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1678345021535048, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021535064, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1678345021535867, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1678345021535984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021535995, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1678345021538262, "dur":2953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021541221, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021541497, "dur":71045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021612581, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1678345021612697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021613394, "dur":41033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1678345021654461, "dur":23644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021678109, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021678122, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021679143, "dur":26256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021705404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021705413, "dur":847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021706293, "dur":38619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021744916, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021744926, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021745627, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021745889, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021745895, "dur":6232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021752153, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021752268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021752291, "dur":738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021753059, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021753201, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021753208, "dur":11624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021764868, "dur":171450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021936323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021936333, "dur":40228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021976590, "dur":2847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345021979441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345021979449, "dur":61327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345022040810, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345022041159, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345022041166, "dur":1121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345022042322, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345022042638, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345022042646, "dur":13366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678345022056044, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1678345022056081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345022056115, "dur":1569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1678345022057717, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1678345022057749, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678345022057757, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zygaLaptok/OneDrive/Pulpit/Swarm Hero/Swarm Hero_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1678345022059007, "dur":28062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678345022090860, "dur":2235, "ph":"X", "name": "ProfilerWriteOutput" }
+,

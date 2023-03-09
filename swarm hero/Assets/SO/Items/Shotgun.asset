@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31d4ffe468bf60841bff14ad8d72549c, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  positionInHands: {x: 0.792, y: 0.381, z: 0.867}
+  rotationInHands: {x: 285.0445, y: 120.456764, z: 240.95753}
+  positionInBack: {x: -0.079, y: 0.286, z: -0.581}
+  rotationInBack: {x: 326.68414, y: 105.002075, z: 354.1023}
+  timeToUse: 0.8
+  range: 40
+  moveSpeed: 25
+  damage: 10
